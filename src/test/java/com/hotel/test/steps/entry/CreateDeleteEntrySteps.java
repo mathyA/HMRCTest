@@ -1,11 +1,10 @@
-package com.hotel.test.steps.jp;
-
-import static org.junit.Assert.assertTrue;
+package com.hotel.test.steps.entry;
 
 import com.hotel.test.pages.hotel.HotelEntryCreationPage;
 import com.hotel.test.steps.CommonSteps;
-import com.hotel.test.utils.common.Utils;
+import com.hotel.test.utils.common.*;
 
+import cucumber.api.PendingException;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -43,20 +42,20 @@ public class CreateDeleteEntrySteps extends CommonSteps{
 
 	@Then("^the entry should be created sucessfully$")
 	public void the_entry_should_be_created_sucessfully() throws Throwable {
-		assertTrue(hotelEntryCreationPage.noOfRows()>0);
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
 	}
 
 	@When("^I delete the created entry$")
 	public void i_delete_the_created_entry() throws Throwable {
-		for(int i=0;i<=hotelEntryCreationPage.noOfRows();i++){
-			hotelEntryCreationPage.selectRemove();	
-		}
-		
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
 	}
 
 	@Then("^the entry should be deleted successfully$")
 	public void the_entry_should_be_deleted_successfully() throws Throwable {
-		assertTrue(!(hotelEntryCreationPage.noOfRows()>0));
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
 	}
 
 	@When("^I create more than one entry with Hotelname, address, owner, phoneno and emailadress$")
@@ -68,7 +67,8 @@ public class CreateDeleteEntrySteps extends CommonSteps{
 
 	@Then("^all the entries should be created successfully$")
 	public void all_the_entries_should_be_created_successfully() throws Throwable {
-		assertTrue(hotelEntryCreationPage.noOfRows()>4);
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new PendingException();
 	}
 
 

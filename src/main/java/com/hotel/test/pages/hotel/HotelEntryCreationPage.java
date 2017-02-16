@@ -9,48 +9,42 @@ import org.openqa.selenium.support.pagefactory.ElementLocatorFactory;
 
 import com.hotel.test.utils.config.ConfigUtils;
 
-import java.util.List;
-import java.util.ArrayList;
 
 
 public class HotelEntryCreationPage {
 
 	private RemoteWebDriver driver;
 	
-	@FindBy(id="doLogin")
+	@FindBy()
 	private WebElement login;
 	
-	@FindBy(id ="username")
+	@FindBy()
 	private WebElement userName;
 	
 	
-	@FindBy(id="password")
+	@FindBy()
 	private WebElement password;
 	
-	@FindBy(id = "hotelName")
+	@FindBy(id = "VehicleRegistrationMark")
 	private WebElement hotelName;
 
-	@FindBy(id = "address")
+	@FindBy(id = "VehicleRegistrationMark")
 	private WebElement address;
 	
-	@FindBy(id = "owner")
+	@FindBy(id = "CountryofRegistration")
 	private WebElement owner;
 
-	@FindBy(id = "phone")
+	@FindBy(id = "find-vehicle-button")
 	private WebElement phoneNo;
 
-	@FindBy(className = "email")
+	@FindBy(className = "field-validation-error")
 	private WebElement email;
 	
-	@FindBy(id="createHotel")
+	@FindBy()
 	private WebElement create;
 	
-	@FindBy(className = "glyphicon glyphicon-remobe hotelDelete")
+	@FindBy()
 	private WebElement delete;
-	
-	
-	@FindBy(className= "row detail")
-	private List<WebElement> noOfEntries;
 
 
 	
@@ -115,11 +109,6 @@ public class HotelEntryCreationPage {
 		login.click();
 	}
 	
-	public int noOfRows(){	
-	
-			return noOfEntries.size();
-		
-	}
 	
 	
 }
