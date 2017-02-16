@@ -1,0 +1,59 @@
+[INFO ] 2017-02-16 10:07:57,718 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:07:57,781 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:08:57,780 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:08:57,814 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:08:57,942 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:08:57,942 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:08:57,993 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:08:57,994 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:09:08,053 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:09:08,082 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:09:08,175 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:09:08,176 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:09:08,209 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:09:08,210 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:10:18,455 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:10:18,488 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:10:24,814 CommonSteps 69 - Initialise shutdown hook
+[INFO ] 2017-02-16 10:19:07,154 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:19:07,178 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:19:13,560 CommonSteps 69 - Initialise shutdown hook
+[INFO ] 2017-02-16 10:19:13,560 CommonSteps 52 - 
+==================================
+[INFO ] 2017-02-16 10:19:13,560 CommonSteps 53 - NEW TEST
+[INFO ] 2017-02-16 10:19:13,561 CommonSteps 54 - If I enter valid From and To stations than I should be taken to results page
+[INFO ] 2017-02-16 10:19:21,580 CommonSteps 31 - Scenario Failed
+[INFO ] 2017-02-16 10:19:21,580 CommonSteps 32 - ==================================
+
+[INFO ] 2017-02-16 10:19:23,183 CommonSteps 75 - Shutting down jvm
+[INFO ] 2017-02-16 10:19:24,538 CommonSteps 85 - Shutdown complete
+[INFO ] 2017-02-16 10:42:29,110 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:42:29,125 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:43:34,872 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:43:34,873 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:44:41,364 CommonSteps 47 - URL : http://www.tfl.gov.uk/
+[INFO ] 2017-02-16 10:44:41,364 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:58:19,446 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 10:58:19,457 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:58:29,649 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 10:58:29,661 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:59:25,723 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 10:59:25,723 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 10:59:35,267 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 10:59:35,267 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:03:57,844 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:03:57,857 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:05:03,123 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:05:03,123 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:06:09,372 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:06:09,372 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:07:14,696 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:07:14,697 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:08:21,256 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:08:21,257 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:09:27,473 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:09:27,474 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:09:36,799 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:09:36,809 WebDriverManager 46 - Current Browser : ff
+[INFO ] 2017-02-16 11:10:43,619 CommonSteps 45 - URL : http://localhost:3003/
+[INFO ] 2017-02-16 11:10:43,619 WebDriverManager 46 - Current Browser : ff
