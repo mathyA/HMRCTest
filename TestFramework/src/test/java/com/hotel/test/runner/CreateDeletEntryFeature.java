@@ -10,8 +10,7 @@ import cucumber.api.junit.Cucumber;
 		glue = { "com.hotel.test.steps" },
 		features = { "classpath:basic/" }
 		,monochrome=true,
-		dryRun=true
-				
+		dryRun=true		
 )
 public class CreateDeletEntryFeature {
 	//This is just a runner
